@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bbNVP1JBVII6LnlzHB3E6FpcAq/Vr3G35UhBJ+mRUbU8gpTrxqraCd0h86N4FW3Q2OOBHRKOMVDyIjVCAbbyPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Programación\\Practicas_Progra1\\POO\\TiposPersonalizados\\TiposPersonalizados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
